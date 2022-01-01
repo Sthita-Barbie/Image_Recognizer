@@ -1,0 +1,19 @@
+.heading {
+    width: 80%;
+    font-size:22px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy {
+    color: crimson;
+}
+
+body {
+    text-align: center;
+    background-color: violet;
+}
+
+#camera {
+    width: 350px;
+    height: 350px;
+    border: 2px dashed black;
+}
